@@ -1,0 +1,40 @@
+body {
+	background-color: #ffccff;
+	text-align: center;
+	font-family: Helvetica, Arial;
+}
+
+form {
+	padding-bottom: 1.5em;
+	margin: 1em;
+}
+
+h1 {
+	font-weight: normal;
+	font-size: 40pt;
+	font-family: Helvtica, Arial;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+h2 {
+	font-weight: bold;
+	font-size: 55pt;
+	font-family: Helvetica, Arial;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+label {
+	font-size: 25pt;
+	font-weight: normal;
+	font-family: Helvetica, Arial;
+}
+
+input {
+	width: 65%;
+	padding: 15px;
+	margin: 10 px 0;
+	border: none;
+	background-color: #1c72b8;
+}
